@@ -7,7 +7,7 @@ Open a recording, inspect its frequency content, select a section and save the
 original PCM frames. Everything runs on your machine. There are no accounts,
 network requests, model downloads or external decoding tools.
 
-![SIGNAL SCOPE waveform and spectrogram](screenshot.png)
+
 
 ## Features
 
